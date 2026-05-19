@@ -133,7 +133,7 @@ Key references from this study:
 ## 📄 License
 
 This repository contains academic research work submitted to Springer. The content is intended for **educational and research purposes only**.  
-© 2024 Joel Matthew, Devansh Handa, Gourav Garg — Chitkara University, Punjab, India.
+© 2026 Joel Matthew, Devansh Handa, Gourav Garg — Chitkara University, Punjab, India.
 
 ---
 
